@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi👋, I'm Reda
 
-<!--
-**Reda-Alqatifi/Reda-Alqatifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer passionate about coding, GitHub, C++, and every other things related to computer and programming.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- C++
+- Problem Solving
+- Git & GitHub
+- Java (basics)
+- HTML (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reda-Alqatifi&show_icons=true&theme=radical)
+
+## 🌐 Connect with me
+- LinkedIn: Not Yet
+- Email: reda.dev.work37@gmail.com
+
+## 🎯 Goals
+- Improve my programming skills
+- Learn more about data structures and algorithms
+- Learn more about programming and computers in usual
+- Build personal projects and share them on GitHub

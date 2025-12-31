@@ -5,7 +5,6 @@ I'm a beginner programmer passionate about coding, GitHub, C++, and every other 
 ## 🛠 Skills
 - C++
 - Problem Solving
-- Git & GitHub
 - Java (basics)
 - HTML (basics)
 

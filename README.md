@@ -15,7 +15,7 @@ I'm a mid programmer passionate about coding, C++, DSA, OOP, DB, and every other
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,java" />
   </a>
 </p>
 

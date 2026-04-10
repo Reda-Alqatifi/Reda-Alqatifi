@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 I'm a mid programmer passionate about coding, C++, DSA, OOP, DB, and every other things related to computer and programming.
-- 🔭 I’m currently working on **DSA Project**
+- 🔭 I’m currently working on **DSA Project, SWE Project, and DBCD Project** for the university
 - 🌱 I’m currently learning **Web, Flutter, more about c++, SQL**
 - 💬 Ask me about **c++, (I am a little bit good with it)**
 
